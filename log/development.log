@@ -5,3 +5,10 @@ Processing by Rails::WelcomeController#index as HTML
 Completed 200 OK in 288ms (Views: 32.4ms)
 
 
+Started GET "/" for 127.0.0.1 at 2017-09-03 00:53:25 -1000
+Processing by Rails::WelcomeController#index as HTML
+  Rendering C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/railties-5.1.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/railties-5.1.3/lib/rails/templates/rails/welcome/index.html.erb (4.0ms)
+Completed 200 OK in 358ms (Views: 33.1ms)
+
+
